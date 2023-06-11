@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning about Machine learning<br>💬 Ask me about Jakarta EE/Django  <br>📫How to reach me : Twitter - @IdrissQoraychi<br>😊Prounouns : He/His<br>⚡ Fun fact : I spent almost 10 hours listening to music everyday.
+🔭 I’m currently learning about Machine learning<br>💬 Ask me about Jakarta EE/Django  <br>📫How to reach me : idrissqr1@gmail.com<br>😊Prounouns : He/His<br>⚡ Fun fact : I spent almost 10 hours listening to music everyday.
 
 
 ## 🌐 Socials:
