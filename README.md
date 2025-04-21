@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning about ASP.NET<br> 📫How to reach me : idrissqr1@gmail.com<br>😊Prounouns : He/His<br>
+🔭 I’m currently learning about ASP.NET<br> 📫How to reach me : idrissqr1@gmail.com / driss.el@alumni.fh-aachen.de<br>😊Prounouns : He/His<br>
 
 
 # 📊 GitHub Stats:
