@@ -21,7 +21,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idriss111&layout=compact&theme=tokyonight&border_radius=6&hide_progress=false)
 
 
 
