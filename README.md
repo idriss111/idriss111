@@ -5,7 +5,7 @@
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on a full-stack app with **ASP.NET Core**, **React**, and **SQL Server**  
+- 🔭 I’m currently working on a full-stack app with **ASP.NET Core** or **Sprint Boot** , **React** or **Angular**, and **SQL Server**  
 - 📫 Reach me at:  
   - 📧 [idrissqr1@gmail.com](mailto:idrissqr1@gmail.com)  
   - 🎓 [driss.el@alumni.fh-aachen.de](mailto:driss.el@alumni.fh-aachen.de)  
